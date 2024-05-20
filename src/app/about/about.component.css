@@ -1,0 +1,9 @@
+.line{
+    width: 80px;
+    height: 5px;
+    background-color: white;
+    
+}
+.bg-home{
+    background-color: #1abc9c;
+}
